@@ -25,12 +25,5 @@ public class Main {
 
         System.out.println("Título: " + libro1.getTitulo() + "\nAutor: " + libro1.getAutor() + "\nISBN: " + libro1.getISBN() + "\nNúmero de páginas: " + libro1.getNumPaginas());
 
-
-
-
-
-
-
-
     }
 }
